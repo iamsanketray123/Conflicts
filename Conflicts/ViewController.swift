@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let a = 1
+        let a = 3
         
         print("Hello Sanket")
     }
